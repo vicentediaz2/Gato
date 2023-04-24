@@ -1,0 +1,8 @@
+D:\Programacion\C#\C#Yo\Gato\Gato\bin\Debug\Gato.exe.config
+D:\Programacion\C#\C#Yo\Gato\Gato\bin\Debug\Gato.exe
+D:\Programacion\C#\C#Yo\Gato\Gato\bin\Debug\Gato.pdb
+D:\Programacion\C#\C#Yo\Gato\Gato\obj\Debug\Gato.csproj.AssemblyReference.cache
+D:\Programacion\C#\C#Yo\Gato\Gato\obj\Debug\Gato.csproj.SuggestedBindingRedirects.cache
+D:\Programacion\C#\C#Yo\Gato\Gato\obj\Debug\Gato.csproj.CoreCompileInputs.cache
+D:\Programacion\C#\C#Yo\Gato\Gato\obj\Debug\Gato.exe
+D:\Programacion\C#\C#Yo\Gato\Gato\obj\Debug\Gato.pdb

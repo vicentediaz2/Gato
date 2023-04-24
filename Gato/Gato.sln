@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gato", "Gato\Gato.csproj", "{CE45346B-7D1C-4FCD-BDF4-CC92FD953A9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE45346B-7D1C-4FCD-BDF4-CC92FD953A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE45346B-7D1C-4FCD-BDF4-CC92FD953A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE45346B-7D1C-4FCD-BDF4-CC92FD953A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE45346B-7D1C-4FCD-BDF4-CC92FD953A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FF99B53-2D7C-499A-BCF4-4BE43092B363}
+	EndGlobalSection
+EndGlobal
